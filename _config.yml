@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: drefrant.github.io
+exclude: ['README.md']
